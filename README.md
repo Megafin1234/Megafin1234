@@ -1,5 +1,6 @@
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=>W<&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=아아아아&fontSize=50" />
+
 
 
 skills!
