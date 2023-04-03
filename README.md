@@ -4,6 +4,8 @@
 
 
 about_me
+
+
 CBNU 전자정보대학 2학년
 
 
@@ -19,4 +21,8 @@ skills!
  
  
  connect
+ 
+ 
+ 
+ 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eric0h@gmail.com)](mailto:eric0h@gmail.com)
