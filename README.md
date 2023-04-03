@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=왈랄랄루&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=^^7&fontSize=50" />
 
 
 
