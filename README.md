@@ -1,11 +1,11 @@
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=안녕%20하세요&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=>W<&fontSize=50" />
 
 
 skills!
 
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=![python (2)]![python (2)](https://user-images.githubusercontent.com/129149226/229583273-943891ab-009f-497f-a6c1-55c609144347.svg)&logoColor=2B2728"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=White"/></a>
 
 
 
