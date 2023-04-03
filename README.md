@@ -1,16 +1,20 @@
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=아아아아&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=왈랄랄루&fontSize=50" />
+
+
+
+about_me
+CBNU 전자정보대학 2학년
 
 
 
 skills!
 
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=White"/></a>
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
-
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Megafin1234)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
  
  
