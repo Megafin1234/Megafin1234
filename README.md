@@ -3,7 +3,7 @@
 
 
 
-about_me
+# about_me
 
 
 CBNU 전자정보대학 2학년
